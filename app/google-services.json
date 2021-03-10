@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966751610501",
+    "project_id": "apna-canteen",
+    "storage_bucket": "apna-canteen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966751610501:android:032ecefe173661373e6bec",
+        "android_client_info": {
+          "package_name": "com.mnk.apna_canteen000"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966751610501-94macrprblgip3j00vbircaavu1g0nf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHbLuVptBWjxPfucfw61Ao-Xw6e47649k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966751610501-94macrprblgip3j00vbircaavu1g0nf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
